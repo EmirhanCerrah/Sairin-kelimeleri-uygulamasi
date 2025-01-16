@@ -69,4 +69,4 @@ https://github.com/user-attachments/assets/9169c4b4-853f-4ffe-9efb-2824cd5f7ea4
 
 Basitçe seç ve bul örneğince alttaki görseli örnek veriyorum.
 
-<img width="700" alt="Image" src="https://github.com/user-attachments/assets/ad1b11f3-f626-4345-93c6-3d25475cdf62" />
+<img width="1000" alt="Image" src="https://github.com/user-attachments/assets/ad1b11f3-f626-4345-93c6-3d25475cdf62" />
