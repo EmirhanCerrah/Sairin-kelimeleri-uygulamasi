@@ -4,42 +4,56 @@ Temelde güzel, sağlıklı bir şiir yazmanızı sağlamak için geliştirdim :
 
 Uygulamanın her adımında dinamik input widget’ları, görsel öğeler ve kullanıcı dostu arayüz ile eşsiz bir deneyim sunmayı hedefledim. Sonuçlar ise benzersiz bir şekilde kullanıcıya sunulur; güçlü ve zayıf sonuçlar arasındaki farklar görsel olarak vurgulanır.
 
-*Bu projede yer alan özellikler:
+## Bu projede yer alan özellikler:
 
-Dinamik ve Etkileşimli Arayüz: Kullanıcı tercihlerine göre değişen input alanları ve seçenekler.
-Güçlü Sonuçlar ve Zayıf Sonuçlar: Filtreleme işlemleri ile kullanıcının gereksinimlerine en uygun sonuçlar.
-Esnek ve Kullanıcı Dostu: Farklı kriterlere göre kullanıcıya esneklik sağlamak amacıyla geliştirilen fonksiyonlar.
-Veri Okuma ve Filtreleme: Dosya okuma işlemleriyle kelimeler arasındaki bağlantıları bulma ve analiz etme.
-Kullanıcı Seçimlerine Göre Özelleşmiş Çözümler 🌟
-Uygulamayı kullanırken, sadece kelimeleri değil, sesli harf sayısını, bilinen son harfleri ve kelime uzunluklarını da göz önünde bulundurabilirsiniz. Bu sayede, istediğiniz kriterlere uygun benzersiz sonuçlar elde etmek mümkün. Ayrıca, zayıf ve güçlü sonuçlar arasında geçiş yaparak, daha fazla seçenek ile analizlerinizi derinleştirebilirsiniz.
+-Dinamik ve Etkileşimli Arayüz: Kullanıcı tercihlerine göre değişen input alanları ve seçenekler.
 
-*Gereksinimler:
+-Güçlü Sonuçlar ve Zayıf Sonuçlar: Filtreleme işlemleri ile kullanıcının gereksinimlerine en uygun sonuçlar.
+
+-Esnek ve Kullanıcı Dostu: Farklı kriterlere göre kullanıcıya esneklik sağlamak amacıyla geliştirilen fonksiyonlar.
+
+-Veri Okuma ve Filtreleme: Dosya okuma işlemleriyle kelimeler arasındaki bağlantıları bulma ve analiz etme.
+
+-Kullanıcı Seçimlerine Göre Özelleşmiş Çözümler 🌟
+
+--Uygulamayı kullanırken, sadece kelimeleri değil, sesli harf sayısını, bilinen son harfleri ve kelime uzunluklarını da göz önünde bulundurabilirsiniz. Bu sayede, istediğiniz kriterlere uygun benzersiz sonuçlar elde etmek mümkün. Ayrıca, zayıf ve güçlü sonuçlar arasında geçiş yaparak, daha fazla seçenek ile analizlerinizi derinleştirebilirsiniz.
+
+## Gereksinimler:
 
 Proje çalıştırmak için aşağıdaki Python kütüphanelerine ihtiyaç duyulmaktadır:
 
-Kivy: Kullanıcı arayüzü (UI) oluşturmak için kullanılır.
-KivyMD: Kivy tabanlı malzemeli tasarım bileşenleri sağlar.
-os: Dosya ve sistemle ilgili işlemler için kullanılır.
-datafonksiyon: Veri çekme ve işleme için özelleştirilmiş fonksiyonlar içerir.
-calculations: Matematiksel ve mantıksal hesaplamalar için fonksiyonlar içerir.
+#### Kütüphaneler
+- Kivy: Kullanıcı arayüzü (UI) oluşturmak için kullanılır.
+- KivyMD: Kivy tabanlı malzemeli tasarım bileşenleri sağlar.
+- os: Dosya ve sistemle ilgili işlemler için kullanılır.
+#### Diğer py dosyaları(Github'a Yüklendi)
+- datafonksiyon: Veri çekme ve işleme için özelleştirilmiş fonksiyonlar içerir.
+- calculations: Matematiksel ve mantıksal hesaplamalar için fonksiyonlar içerir.
 
-*Kurulum:
+## Kurulum:
 
 Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
-Python 3.x ve pip yüklü olduğundan emin olun.
-Gerekli kütüphaneleri yüklemek için terminal veya komut satırına aşağıdaki komutu girin:
+1-Python 3.x ve pip yüklü olduğundan emin olun.
+
+2-Gerekli kütüphaneleri yüklemek için terminal veya komut satırına aşağıdaki komutu girin:
 pip install kivy kivymd
-Projeyi çalıştırmak için, projenin bulunduğu dizinde terminali açın ve şu komutu girin:
+
+3-Projeyi çalıştırmak için, projenin bulunduğu dizinde terminali açın ve şu komutu girin:
 python main.py
+
 Bu adımları takip ederek uygulamanızı başarıyla çalıştırabilirsiniz.
 
 
 
-Sonuç Sayfası 📑🔍
+## Sonuç Sayfası 📑🔍
 Sonuçlar sayfası, her kullanıcı etkileşiminin sonunda gösterilecektir. Eğer kriterlerinize uygun sonuç bulunmazsa, alternatif önerilerle diğer güçlü sonuçlar ve zayıf sonuçlar arasındaki farkları inceleyebilirsiniz. Sonuçlar şık bir şekilde düzenlenmiş olup, her biri kullanıcı dostu ve anlaşılır bir biçimde sunulmuştur.
 
 Bu dinamik, görsel olarak zengin ve işlevsel uygulama ile kullanıcılar, kelimeler üzerinde derinlemesine analiz yapabilir ve kendi belirledikleri kritere göre özelleştirilmiş sonuçlar alabilirler.
+
+## Kullanım
+
+
 
 
 
