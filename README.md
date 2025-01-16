@@ -51,6 +51,11 @@ Sonuçlar sayfası, her kullanıcı etkileşiminin sonunda gösterilecektir. Eğ
 
 Bu dinamik, görsel olarak zengin ve işlevsel uygulama ile kullanıcılar, kelimeler üzerinde derinlemesine analiz yapabilir ve kendi belirledikleri kritere göre özelleştirilmiş sonuçlar alabilirler.
 
+## Veritabanı Hakkında
+-1M_ortadaki_keliemeler.txt KAYNAK: https://wortschatz.uni-leipzig.de/en/download/Turkish
+
+-siirler.txt dosyasını oluşturmak için vericekme_web.py klasöründen https://www.antoloji.com sitesi kullanılmıştır
+
 ## Kullanım
 Arayüzde Şiirinizi yazabileceğiniz bir metin kutucuğu bulunur. Burada yazdığınız kelimeleri seçerek bu seçtiğiniz kelimeden sonra gelecek olan kelimeyi daha önce yazılmış şiirleri analiz ederek sizlere sunar. Bu kutucukta yazdıklarınız otomatikmen user_text.txt klasörüne kaydolur, uygulamayı yeniden başlatsanız bile silinmez. 
 
