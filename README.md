@@ -65,6 +65,9 @@ https://github.com/user-attachments/assets/c4d5f809-1e42-46b6-ac61-52cbdf3c4126
 
 https://github.com/user-attachments/assets/9169c4b4-853f-4ffe-9efb-2824cd5f7ea4
 
+###DİĞER ÖZELLİKLER İÇİN ÖRNEK
+
+https://github.com/user-attachments/assets/de535a32-8f5c-406e-83f7-c186cce251aa
 
 
 Basitçe seç ve bul örneğince alttaki görseli örnek veriyorum.
