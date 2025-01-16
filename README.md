@@ -61,7 +61,7 @@ Arayüzde Şiirinizi yazabileceğiniz bir metin kutucuğu bulunur. Burada yazdı
 
 Metin kutucuğu haricinde Türkçede kelimeleri analiz etmenize yarayacak iki özellik de bulunuyor. Butoonlara tıklayarak özellikleri aktif edebiliyorsunuz. Bunlar ile Türkçede bulunan kelimeleri aramanızı kolaylaştırabilirsiniz.
 
-
+https://github.com/user-attachments/assets/c4d5f809-1e42-46b6-ac61-52cbdf3c4126
 
 https://github.com/user-attachments/assets/9169c4b4-853f-4ffe-9efb-2824cd5f7ea4
 
