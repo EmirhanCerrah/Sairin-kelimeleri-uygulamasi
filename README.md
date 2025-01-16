@@ -52,8 +52,13 @@ Sonuçlar sayfası, her kullanıcı etkileşiminin sonunda gösterilecektir. Eğ
 Bu dinamik, görsel olarak zengin ve işlevsel uygulama ile kullanıcılar, kelimeler üzerinde derinlemesine analiz yapabilir ve kendi belirledikleri kritere göre özelleştirilmiş sonuçlar alabilirler.
 
 ## Kullanım
+Arayüzde Şiirinizi yazabileceğiniz bir metin kutucuğu bulunur. Bu kutucukta yazdıklarınız otomatikmen user_text.txt klasörüne kaydolur, uygulamayı yeniden başlatsanız bile silinmez.
+
+Metin kutucuğu haricinde Türkçede kelimeleri analiz etmenize yarayacak iki özellik de bulunuyor. Bunlar ile Türkçede bulunan kelimeleri aramanızı kolaylaştırabilirsiniz.
 
 
+
+https://github.com/user-attachments/assets/9169c4b4-853f-4ffe-9efb-2824cd5f7ea4
 
 
 
